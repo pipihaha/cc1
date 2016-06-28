@@ -6,7 +6,7 @@
  **********************************/
 
 #include "MP1Node.h"
-/// added comment for test
+
 /*
  * Note: You can change/add any functions in MP1Node.{h,cpp}
  */
